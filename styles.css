@@ -1,0 +1,179 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1F2937;
+    
+  }  
+
+button{
+    background-color: #3882f6;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 50px;
+    margin-left: 200px;
+    margin-top: 20px;
+    border: solid white;
+}
+
+
+.backgroundcolor{ 
+    background-color: white;
+    height: 400px;
+    margin-top: 80px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+
+
+.maintext{ 
+    font-weight: bolder;
+    font-size: 48px;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding-top: 20px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+.imgholder{ 
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-top: -300px;
+    margin-right: 200px;
+}
+
+.cards{ 
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.card{
+    height: 145px;
+    width: 145px;
+    flex-direction: row;
+    margin-top: -300px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+.submaintext{
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    width: 400px;
+    margin-left: 200px;
+
+}
+
+
+.headerlogo{ 
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: 750px;
+    font-weight: bold;
+
+}
+
+
+.pagelinks{ 
+    margin-left: -200px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header{ 
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    padding-left: 200px;
+    gap: 20px;
+    padding-top: 20px;
+
+}
+
+
+.thirdpart{
+    background-color: #E5E7EB;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.quote{ 
+    width: 700px;
+    height: 200px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding-top: 40px;
+}
+
+.fourthpart{ 
+    background-color: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.calltoaction{ 
+    background-color: #3882f6;
+    height: 120px;
+    width: 700px;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.calltoactionheader{ 
+    width: 300px;
+    margin-top: -30px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+.calltoactioncommand{ 
+    margin-left: -305px;
+    padding-top: 10px;
+}
+
+.ctabutton{ 
+    margin-left: auto;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border: solid white;
+}
+
+.footer{ 
+    height: 70px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footertext{ 
+    color: #E5E7EB;
+ 
+}
